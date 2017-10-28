@@ -9,4 +9,4 @@ Calculating the distance of a thunder is really easy. All you need it to count i
 
 Special thanks to my friend, Mentor (https://github.com/mentorgashi) - a super programmer, who on a day with thunder, enlightened me with this idea.
 
-Demo: https://sallm.in/thdc
+Demo: http://thdc.sallm.in
